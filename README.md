@@ -44,4 +44,13 @@ result=query='SELECT COUNT(DISTINCT ArtistId) AS count FROM Artist;', SELECT COU
 {'generate_answer': {'answer': 'There are 275 artists.'}}
 ```
 
+```Links
+https://docs.oracle.com/en-us/iaas/Content/generative-ai/langchain.htm
+https://python.langchain.com/docs/integrations/llms/oci_generative_ai/
+https://blogs.oracle.com/ai-and-datascience/post/developing-ai-apps-oci-generative-ai-langchain
+https://python.langchain.com/docs/integrations/text_embedding/oci_generative_ai/
+https://python.langchain.com/docs/integrations/providers/oci/
+https://python.langchain.com/api_reference/community/llms/langchain_community.llms.oci_generative_ai.OCIGenAI.html
+```
+
 
